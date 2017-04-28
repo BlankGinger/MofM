@@ -13,7 +13,8 @@
         "a9ce0067-fd07-43c8-93be-9a8e65c56a20",
         "a8d78cfe-577a-4307-bfa6-697c727dce48",
         "3a5816f9-ed77-4c7f-affc-09fe3f315d37",
-        "196851e0-7024-4bab-853b-5259ec5aad72"
+        "196851e0-7024-4bab-853b-5259ec5aad72",
+        "215ae0f4-eddc-4308-8f0f-1827df8b45b8"
     ],
     "filterType": "",
     "folderName": "Player",
