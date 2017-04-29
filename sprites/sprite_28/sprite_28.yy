@@ -62,6 +62,6 @@
     "textureGroup": 0,
     "type": 0,
     "width": 64,
-    "xorig": -31,
-    "yorig": 22
+    "xorig": -13,
+    "yorig": 63
 }
